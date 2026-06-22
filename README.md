@@ -4,7 +4,7 @@ A personal developer portfolio built completely from scratch using vanilla HTML,
 
 ## 🔗 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://Salonii703.github.io/dev-portfolio-v1/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)]( https://salonii703.github.io/dev-portfolio-v1/)
 
 
 ## 📌 Project Purpose
